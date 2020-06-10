@@ -1,0 +1,56 @@
+<mxfile host="" modified="2020-06-10T16:00:06.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.45.1 Chrome/78.0.3904.130 Electron/7.2.4 Safari/537.36" etag="Q1mAdSatEC8jdY9vFLiH" version="13.1.3">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="313" dy="227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="329.58" y="330" as="sourcePoint"/>
+                        <mxPoint x="329.58" y="420" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="329.58" y="390"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="&lt;h1&gt;Diet-Maintainance-Site&lt;/h1&gt;&lt;p&gt;There will be multiple pages leading to multiple data to be manipulated by the user.&lt;/p&gt;&lt;p&gt;For this particular reason this workflow is created&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry y="30" width="340" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="index.html" style="shape=card;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="230" width="80" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="HTML FILE =&amp;nbsp;&lt;br&gt;&lt;br&gt;SCRIPT FILE =&lt;br&gt;STYLING FILES =&lt;br&gt;&lt;br&gt;IMAGES&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;FOLDERS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="30" width="460" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;fontSize=12;size=10;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="160" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="endArrow=classic;html=1;fontSize=12;exitX=0.152;exitY=0.822;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="12">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="474" y="169.66" as="sourcePoint"/>
+                        <mxPoint x="550" y="169.66" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="500" y="169.66"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="" style="endArrow=classic;html=1;fontSize=12;entryX=0.457;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.13;exitY=0.647;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="12" target="12">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="414" y="140" as="sourcePoint"/>
+                        <mxPoint x="490" y="140" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="440" y="140"/>
+                            <mxPoint x="460" y="140"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;rounded=1;fontSize=12;resizeWidth=1;resizeHeight=1;autosize=1;" vertex="1" parent="1">
+                    <mxGeometry x="565" y="130" width="10" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="260" width="40" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
